@@ -433,6 +433,7 @@ $(document).ready(function() {
     $("#team-sharing-button").popover({placement:'right', trigger:'hover'});
     $("#hints-taken-button").popover({placement:'right', trigger:'hover'});
     $("#teams-button").popover({placement:'right', trigger:'hover'});
+    $("#max-pastebin-size").popover({placement:'right', trigger:'hover'});
     $("#max-team-size").popover({placement:'right', trigger:'hover'});
     $("#min-user-password-length").popover({placement:'right', trigger:'hover'});
     $("#max-flag-attempts").popover({placement:'right', trigger:'hover'});
